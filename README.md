@@ -1,10 +1,20 @@
 # sfTestAuto
 Requirements:-
 1.jdk 8
-2.firefox browser version above 56
-3.geckdriver
+2.Browser
+3.Driver
+
+* firefox browser version above 56 --geckdriver
         Download geckodriver from below link v0.26.0
         https://github.com/mozilla/geckodriver/releases
+
+* internetexplorer
+        webDriver
+        https://selenium-release.storage.googleapis.com/index.html
+        
+ * chrome
+        webdriver
+        https://chromedriver.chromium.org/downloads
         
 ------------------------------------------------------------------------------------------------------------------
 change geckodrivers path in FirefoxDrv.java
