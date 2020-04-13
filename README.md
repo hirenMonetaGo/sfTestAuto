@@ -1,6 +1,6 @@
 # sfTestAuto
 Requirements:-
-1.jdk 8
+1.java 8 or 11
 2.Browser
 3.Driver
 
